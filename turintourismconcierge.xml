@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!--Domanda CIAO-->
+<category>
+    <pattern>Ciao</pattern>
+    <template>Ciao anche a te!😀Chiedimi cosa vuoi fare a Torino, oppure dove vuoi mangiare, oppure dove vuoi soggiornare</template>
+</category>
+<category>
+    <pattern>ciao</pattern>
+    <template>Ciao anche a te!😀Chiedimi cosa vuoi fare a Torino, oppure dove vuoi mangiare, oppure dove vuoi soggiornare</template>
+</category>
+
+
+<!--Domanda COSA FARE A TORINO-->
+<category>
+    <pattern>Cosa fare a Torino</pattern>
+    <template>Ecco alcuni posti che puoi visitare a Torino:
+<link>
+    <text>Museo del cinema</text>
+    <url>https://www.museocinema.it/it?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI7rC_t8UeRL6YLgDKfIlR7VHHSh5LDU-wKIpGxo9RhXAinVobkZqEaAgSSEALw_wcB</url>
+</link>
+<link>
+    <text>Mole Antoneliana</text>
+    <url>https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRKhaMhTDksojzz7TEJDg1WL9kMOIMqv4-GyLfh1ugVZWji2Kl9-_EUaAumXEALw_wcB</url>
+</link>
+<link>
+    <text>Monte dei cappucini</text>
+    <url>https://goo.gl/maps/TwCoosJe4cZaBdJR7</url>
+</link>
+<link>
+    <text>Parco del Valentino</text>
+    <url>https://goo.gl/maps/Rfm5KGfFgdpuhCWA9</url>
+</link>
+</template>
+</category>
+<!--Domanda COSA FARE A TORINO-->
+<category>
+    <pattern>Cosa fare a Torino?</pattern>
+    <template>Ecco alcuni posti che puoi visitare a Torino:
+<link>
+    <text>Museo del cinema</text>
+    <url>https://www.museocinema.it/it?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI7rC_t8UeRL6YLgDKfIlR7VHHSh5LDU-wKIpGxo9RhXAinVobkZqEaAgSSEALw_wcB</url>
+</link>
+<link>
+    <text>Mole Antoneliana</text>
+    <url>https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRKhaMhTDksojzz7TEJDg1WL9kMOIMqv4-GyLfh1ugVZWji2Kl9-_EUaAumXEALw_wcB</url>
+</link>
+<link>
+    <text>Monte dei cappucini</text>
+    <url>https://goo.gl/maps/TwCoosJe4cZaBdJR7</url>
+</link>
+<link>
+    <text>Parco del Valentino</text>
+    <url>https://goo.gl/maps/Rfm5KGfFgdpuhCWA9</url>
+</link>
+</template>
+</category>
+<!--Domanda COSA FARE A TORINO-->
+<category>
+    <pattern>cosa fare a torino</pattern>
+    <template>Ecco alcuni posti che puoi visitare a Torino:
+<link>
+    <text>Museo del cinema</text>
+    <url>https://www.museocinema.it/it?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI7rC_t8UeRL6YLgDKfIlR7VHHSh5LDU-wKIpGxo9RhXAinVobkZqEaAgSSEALw_wcB</url>
+</link>
+<link>
+    <text>Mole Antoneliana</text>
+    <url>https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRKhaMhTDksojzz7TEJDg1WL9kMOIMqv4-GyLfh1ugVZWji2Kl9-_EUaAumXEALw_wcB</url>
+</link>
+<link>
+    <text>Monte dei cappucini</text>
+    <url>https://goo.gl/maps/TwCoosJe4cZaBdJR7</url>
+</link>
+<link>
+    <text>Parco del Valentino</text>
+    <url>https://goo.gl/maps/Rfm5KGfFgdpuhCWA9</url>
+</link>
+</template>
+</category>
+<!--Domanda COSA FARE A TORINO-->
+<category>
+    <pattern>cosa fare a torino?</pattern>
+    <template>Ecco alcuni posti che puoi visitare a Torino:
+<link>
+    <text>Museo del cinema</text>
+    <url>https://www.museocinema.it/it?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI7rC_t8UeRL6YLgDKfIlR7VHHSh5LDU-wKIpGxo9RhXAinVobkZqEaAgSSEALw_wcB</url>
+</link>
+<link>
+    <text>Mole Antoneliana</text>
+    <url>https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRKhaMhTDksojzz7TEJDg1WL9kMOIMqv4-GyLfh1ugVZWji2Kl9-_EUaAumXEALw_wcB</url>
+</link>
+<link>
+    <text>Monte dei cappucini</text>
+    <url>https://goo.gl/maps/TwCoosJe4cZaBdJR7</url>
+</link>
+<link>
+    <text>Parco del Valentino</text>
+    <url>https://goo.gl/maps/Rfm5KGfFgdpuhCWA9</url>
+</link>
+</template>
+</category>
+<!--Domanda COSA FARE A TORINO-->
+<category>
+    <pattern>cosa fare a Torino?</pattern>
+    <template>Ecco alcuni posti che puoi visitare a Torino:
+<link>
+    <text>Museo del cinema</text>
+    <url>https://www.museocinema.it/it?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRI7rC_t8UeRL6YLgDKfIlR7VHHSh5LDU-wKIpGxo9RhXAinVobkZqEaAgSSEALw_wcB</url>
+</link>
+<link>
+    <text>Mole Antoneliana</text>
+    <url>https://www.museocinema.it/it/museo-e-fondazione-ma-prolo/mole-antonelliana?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRKhaMhTDksojzz7TEJDg1WL9kMOIMqv4-GyLfh1ugVZWji2Kl9-_EUaAumXEALw_wcB</url>
+</link>
+<link>
+    <text>Monte dei cappucini</text>
+    <url>https://goo.gl/maps/TwCoosJe4cZaBdJR7</url>
+</link>
+<link>
+    <text>Parco del Valentino</text>
+    <url>https://goo.gl/maps/Rfm5KGfFgdpuhCWA9</url>
+</link>
+</template>
+</category>
+
+
+<!--Domanda DOVE MANGIARE A TORINO-->
+<category>
+    <pattern>Dove mangiare a Torino</pattern>
+    <template>Ecco alcuni posti dove puoi mangiare a Torino:
+<link>
+    <text>Ristorante da Dino</text>
+    <url>https://www.tripadvisor.it/Restaurant_Review-g187855-d743608-Reviews-Da_Dino-Turin_Province_of_Turin_Piedmont.html</url>
+</link>
+<link>
+    <text>Plin e Tajarin</text>
+    <url>https://www.tripadvisor.it/Restaurant_Review-g187855-d3835416-Reviews-Plin_Tajarin-Turin_Province_of_Turin_Piedmont.html</url>
+</link>
+<link>
+    <text>Rock Burger</text>
+    <url>https://www.tripadvisor.it/Restaurant_Review-g187855-d3266886-Reviews-Rock_Burger_Torino-Turin_Province_of_Turin_Piedmont.html</url>
+</link>
+<link>
+    <text>Fratelli la piada</text>
+    <url>https://www.tripadvisor.it/Restaurant_Review-g187855-d11859106-Reviews-Fratelli_di_Piada-Turin_Province_of_Turin_Piedmont.html#REVIEWS</url>
+</link>
+</template>
+</category>
+
+
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>Dove soggiornare a Torino</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>Dove soggiornare a Torino?</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>dove soggiornare a torino</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>dove soggiornare a torino?</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>dove soggiornare a Torino</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>Dove soggiornare a torino</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>Dove soggiornare a torino?</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+<!--Domanda DOVE SOGGIORNARE A TORINO-->
+<category>
+    <pattern>Dove soggiornare a torino?</pattern>
+    <template>Ecco alcuni posti dove puoi soggiornare:
+<link>
+    <text>Hotel Plaza</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Hotel Urbani</text>
+    <url>https://www.hotelurbani.it/</url>
+</link>
+<link>
+    <text>Hotel Giulio Cesare</text>
+    <url>https://www.hotelgiuliocesareit.com/</url>
+</link>
+<link>
+    <text>Turin Sweet Home</text>
+    <url>https://www.turinsweethome.it/</url>
+</link>
+</template>
+</category>
+
+
+<!--Domanda SHOPPING A TORINO-->
+<category>
+    <pattern>Shopping a Torino</pattern>
+    <template>Ecco alcuni posti dove rinomati dove poter fare shopping:
+<link>
+    <text>Via Po</text>
+    <url>https://goo.gl/maps/AGBuXutqpgz5HLtr7</url>
+</link>
+<link>
+    <text>Via Roma</text>
+    <url>https://goo.gl/maps/h3CurBZYz8AXuUn9A</url>
+</link>
+<link>
+    <text>Spazio Conad</text>
+    <url> https://goo.gl/maps/hBEzUXsZc7tWgFUL6</url>
+</link>
+<link>
+    <text>Via Garibaldi</text>
+    <url>https://goo.gl/maps/LvV8wSGBYejL85Nc7</url>
+</link>
+<link>
+    <text>Le Gru</text>
+    <url>https://goo.gl/maps/sX7bHiU2aEoMJfm59</url>
+</link>
+<link>
+    <text>Via Langrange</text>
+    <url>https://goo.gl/maps/jJmfaBKzfqZgfxJz5</url>
+</link>
+</template>
+</category>
+<!--Domanda SHOPPING A TORINO-->
+<category>
+    <pattern>shopping a Torino</pattern>
+ <template>Ecco alcuni posti dove rinomati dove poter fare shopping:
+<link>
+    <text>Via Po</text>
+    <url>https://goo.gl/maps/AGBuXutqpgz5HLtr7</url>
+</link>
+<link>
+    <text>Via Roma</text>
+    <url>https://goo.gl/maps/h3CurBZYz8AXuUn9A</url>
+</link>
+<link>
+    <text>Spazio Conad</text>
+    <url> https://goo.gl/maps/hBEzUXsZc7tWgFUL6</url>
+</link>
+<link>
+    <text>Via Garibaldi</text>
+    <url>https://goo.gl/maps/LvV8wSGBYejL85Nc7</url>
+</link>
+<link>
+    <text>Le Gru</text>
+    <url>https://goo.gl/maps/sX7bHiU2aEoMJfm59</url>
+</link>
+<link>
+    <text>Via Langrange</text>
+    <url>https://goo.gl/maps/jJmfaBKzfqZgfxJz5</url>
+</link>
+</template>
+</category>
+<!--Domanda SHOPPING A TORINO-->
+<category>
+    <pattern>shopping a torino</pattern>
+  <template>Ecco alcuni posti dove rinomati dove poter fare shopping:
+<link>
+    <text>Via Po</text>
+    <url>https://goo.gl/maps/AGBuXutqpgz5HLtr7</url>
+</link>
+<link>
+    <text>Via Roma</text>
+    <url>https://goo.gl/maps/h3CurBZYz8AXuUn9A</url>
+</link>
+<link>
+    <text>Spazio Conad</text>
+    <url> https://goo.gl/maps/hBEzUXsZc7tWgFUL6</url>
+</link>
+<link>
+    <text>Via Garibaldi</text>
+    <url>https://goo.gl/maps/LvV8wSGBYejL85Nc7</url>
+</link>
+<link>
+    <text>Le Gru</text>
+    <url>https://goo.gl/maps/sX7bHiU2aEoMJfm59</url>
+</link>
+<link>
+    <text>Via Langrange</text>
+    <url>https://goo.gl/maps/jJmfaBKzfqZgfxJz5</url>
+</link>
+</template>
+</category>
+<!--Domanda SHOPPING A TORINO-->
+<category>
+    <pattern>Shopping a torino</pattern>
+    <template>Ecco alcuni posti dove rinomati dove poter fare shopping:
+<link>
+    <text>Via Po</text>
+    <url>https://goo.gl/maps/AGBuXutqpgz5HLtr7</url>
+</link>
+<link>
+    <text>Via Roma</text>
+    <url>https://goo.gl/maps/h3CurBZYz8AXuUn9A</url>
+</link>
+<link>
+    <text>Spazio Conad</text>
+    <url> https://goo.gl/maps/hBEzUXsZc7tWgFUL6</url>
+</link>
+<link>
+    <text>Via Garibaldi</text>
+    <url>https://goo.gl/maps/LvV8wSGBYejL85Nc7</url>
+</link>
+<link>
+    <text>Le Gru</text>
+    <url>https://goo.gl/maps/sX7bHiU2aEoMJfm59</url>
+</link>
+<link>
+    <text>Via Langrange</text>
+    <url>https://goo.gl/maps/jJmfaBKzfqZgfxJz5</url>
+</link>
+</template>
+</category>
+
+
+<!--Domanda MEZZI DI TRASPORTO A TORINO-->
+<category>
+    <pattern>Linee dei pullman a Torino</pattern>
+    <template>Ecco le linee dei pullman a Torino:
+<link>
+    <text>Via Po</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Sito della GTT</text>
+    <url>https://www.gtt.to.it/cms/</url>
+</link>
+<link>
+    <text>App GTT To Move (android)</text>
+    <url>https://play.google.com/store/apps/details?id=it.to.gtt.tomove</url>
+</link>
+<link>
+    <text>App orari GTT (android)</text>
+    <url>https://apps.apple.com/it/app/orari-gtt-trasporti-torino/id1495767597</url>
+</link>
+</template>
+</category>
+<!--Domanda MEZZI DI TRASPORTO A TORINO-->
+<category>
+    <pattern>linee dei pullman a Torino</pattern>
+    <template>Ecco le linee dei pullman a Torino:
+<link>
+    <text>Via Po</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Sito della GTT</text>
+    <url>https://www.gtt.to.it/cms/</url>
+</link>
+<link>
+    <text>App GTT To Move (android)</text>
+    <url>https://play.google.com/store/apps/details?id=it.to.gtt.tomove</url>
+</link>
+<link>
+    <text>App orari GTT (android)</text>
+    <url>https://apps.apple.com/it/app/orari-gtt-trasporti-torino/id1495767597</url>
+</link>
+</template>
+</category>
+<!--Domanda MEZZI DI TRASPORTO A TORINO-->
+<category>
+    <pattern>linee dei pullman a torino</pattern>
+    <template>Ecco le linee dei pullman a Torino:
+<link>
+    <text>Via Po</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Sito della GTT</text>
+    <url>https://www.gtt.to.it/cms/</url>
+</link>
+<link>
+    <text>App GTT To Move (android)</text>
+    <url>https://play.google.com/store/apps/details?id=it.to.gtt.tomove</url>
+</link>
+<link>
+    <text>App orari GTT (android)</text>
+    <url>https://apps.apple.com/it/app/orari-gtt-trasporti-torino/id1495767597</url>
+</link>
+</template>
+</category>
+<!--Domanda MEZZI DI TRASPORTO A TORINO-->
+<category>
+    <pattern>pullman a Torino</pattern>
+    <template>Ecco le linee dei pullman a Torino:
+<link>
+    <text>Via Po</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Sito della GTT</text>
+    <url>https://www.gtt.to.it/cms/</url>
+</link>
+<link>
+    <text>App GTT To Move (android)</text>
+    <url>https://play.google.com/store/apps/details?id=it.to.gtt.tomove</url>
+</link>
+<link>
+    <text>App orari GTT (android)</text>
+    <url>https://apps.apple.com/it/app/orari-gtt-trasporti-torino/id1495767597</url>
+</link>
+</template>
+</category>
+<!--Domanda MEZZI DI TRASPORTO A TORINO-->
+<category>
+    <pattern>Pullman a Torino</pattern>
+    <template>Ecco le linee dei pullman a Torino:
+<link>
+    <text>Via Po</text>
+    <url>https://www.hotelplazatorino.it/</url>
+</link>
+<link>
+    <text>Sito della GTT</text>
+    <url>https://www.gtt.to.it/cms/</url>
+</link>
+<link>
+    <text>App GTT To Move (android)</text>
+    <url>https://play.google.com/store/apps/details?id=it.to.gtt.tomove</url>
+</link>
+<link>
+    <text>App orari GTT (android)</text>
+    <url>https://apps.apple.com/it/app/orari-gtt-trasporti-torino/id1495767597</url>
+</link>
+</template>
+</category>
+</aiml>
